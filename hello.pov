@@ -92,6 +92,7 @@ union{
   texture{T_Glass3} interior{I_Glass}
   translate <-0.5, 0, 0>
 }
+
 merge{ 
   sphere{<0,1,0>,0.35}
   cone{<0,0,0>,0.45,<0,1.2,0>,0}
